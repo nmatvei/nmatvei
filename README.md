@@ -1,7 +1,7 @@
 # Hey, I'm Nikita!
 I'm a back-end focused software developer with an interest in scalable systems and clean architecture.
 <div align="center">
-  <a href="https://linkedin.com/in/nikitamatpech">
+  <a href="https://linkedin.com/in/nktmatpech">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:nikitamatpech@gmail.com">
